@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"gestorFrontera","l":"EstadoViajero"},{"p":"org.example","l":"Main"},{"p":"gestorFrontera","l":"Seguridad"},{"p":"gestorFrontera","l":"SistemaFrontera"},{"p":"<Unnamed>","l":"SistemaFronteraTest"},{"p":"gestorFrontera","l":"Viajero"}];updateSearchResults();
